@@ -1,0 +1,15 @@
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.pdb
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.exe
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.pdb
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.exe
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.pdb
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.exe
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Debug\19-21.TestLibrary.pdb
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.exe
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\bin\Debug\19-21.TestLibrary.pdb
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\bin\Release\19-21.TestLibrary.exe
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\bin\Release\19-21.TestLibrary.pdb
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Release\19-21.TestLibrary.exe
+E:\C# Project\chapter 14\Tasks from chapter 14\14.DefiningClasses\Solution\17.DefiningClasses\19-21.TestLibrary\obj\x86\Release\19-21.TestLibrary.pdb
